@@ -9,3 +9,5 @@
 | # | Issue Date        | Course                     | Language | Credential ID                            |
 |----|-------------------|----------------------------|----------|------------------------------------------|
 | 1  | 10 September 2020 | Healthy Life in the Office | Turkish  | 2a7d6ae0-f2e0-11ea-b921-b5d22c1d630d |
+|2   | 13 Aralık 2020 | Liderlik | Turkish |5efad8e0-3d7c-11eb-855c-edda47356b4e|
+
